@@ -4,7 +4,7 @@ This repository contains the implementation of fundamental machine learning algo
 The goal is to understand how each algorithm works internally.
 
 ## Implemented Algorithms
-
+``Linear Regression``
 ## Objectives
 
 - Understand the math and logic behind each model.
