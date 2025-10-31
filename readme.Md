@@ -5,6 +5,8 @@ The goal is to understand how each algorithm works internally.
 
 ## Implemented Algorithms
 
+``Perceptron``
+
 ``Logistic Regression``
 
 ``Linear Regression``
